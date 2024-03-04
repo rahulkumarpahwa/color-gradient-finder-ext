@@ -1,0 +1,64 @@
+/* .input-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+} */
+
+.color-card {
+  /* display: flex; */
+  border-radius: 20px;
+}
+
+.color-card-container {
+  display: flex;
+}
+
+.card {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  transition: transform 0.3s;
+}
+
+.color-div {
+  display: flex;
+  border-bottom: 1px solid black;
+  width: 100px;
+  padding: 0px 3px;
+}
+
+.color-div:hover {
+  border: 1px solid black;
+  /* border-bottom: none; */
+}
+
+#color1 {
+  width: 30px;
+  height: 30px;
+  padding: 0px 0px;
+  border: none;
+  background-color: inherit;
+}
+
+#color1-input {
+  width: 60px;
+  border: none;
+}
+#color1-input:focus-visible,
+#number:focus-visible {
+  outline: none;
+}
+
+#number {
+  width: 10px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.card:hover {
+  /* border: 2px solid black; */
+  transform: scale(1.1);
+}

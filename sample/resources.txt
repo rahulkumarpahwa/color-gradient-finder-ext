@@ -1,0 +1,14 @@
+https://stackoverflow.com/questions/9224404/get-color-name-by-hex-or-rgb
+
+https://www.w3schools.com/TAGS/att_input_type_color.asp
+
+https://www.color-name.com/
+
+https://www.npmjs.com/package/javascript-color-gradient
+
+https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+
+
+https://github.com/casesandberg/react-color
+
+https://casesandberg.github.io/react-color/
