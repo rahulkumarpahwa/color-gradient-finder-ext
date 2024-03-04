@@ -15,5 +15,5 @@ This Extesnion has following Features :
 - Css
 
 # Usage: 
-To get the extesion on your system you can follow the process as below:
+To get the extension on your system you can follow the process as below:
 1. 
