@@ -6,6 +6,8 @@ const ColorCard = (props) => {
   return (
     <div className="color-card">
       <hr />
+      <h4 className="color-card-heading">Click to Copy </h4>
+
       <div className="color-card-container">
         {arr.map((colr) => (
           <div

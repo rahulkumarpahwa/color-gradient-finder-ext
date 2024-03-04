@@ -1,16 +1,55 @@
-/* .input-container {
+* {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.app {
+  width: 500px;
+}
+
+.header {
   display: flex;
-  flex-wrap: wrap;
-  width: 400px;
-} */
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  /* width: 100%; */
+  box-shadow: 0px 4px 8px -4px rgba(0, 0, 0, 0.5);
+  margin: 0px 0px 20px 0px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+}
+
+.number-btn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.button {
+  margin-bottom: 15px;
+}
+
+.number-btn div {
+  margin: 0px 15px 10px 0px;
+}
 
 .color-card {
-  /* display: flex; */
   border-radius: 20px;
+  margin: 0px 5px;
+  padding-top: 10px;
+}
+
+.color-containers {
+  display: flex;
+  align-items: center;
 }
 
 .color-card-container {
   display: flex;
+  justify-content: center;
 }
 
 .card {
@@ -27,12 +66,13 @@
   display: flex;
   border-bottom: 1px solid black;
   width: 100px;
-  padding: 0px 3px;
+  /* padding: 0px 3px; */
+  margin: 0px 20px;
 }
 
-.color-div:hover {
-  /* border: 1px solid black; */
-  /* border-bottom: none; */
+.color-card-heading {
+  text-align: center;
+  margin: 10px 0px;
 }
 
 #color1 {
@@ -47,18 +87,29 @@
   width: 60px;
   border: none;
 }
+
 #color1-input:focus-visible,
 #number:focus-visible {
   outline: none;
 }
 
 #number {
-  width: 10px;
+  width: 30px;
   border: none;
+  text-align: center;
   border-bottom: 1px solid black;
 }
 
 .card:hover {
   /* border: 2px solid black; */
   transform: scale(1.1);
+}
+
+.footer {
+  text-align: center;
+  color: #565656;
+}
+
+.footer a {
+  color: #545454;
 }
