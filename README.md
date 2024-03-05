@@ -4,7 +4,7 @@ Hi! This is a Color gradient finding extension. This project has been created by
 
 # Features :
 
-This Extesnion has following Features :
+This Extension has following Features :
 
 1. You can find the gradient between the two colors you choose or either entered in Hex.
 2. You can also choose the number of gradients you want in between the two colors you passed.
