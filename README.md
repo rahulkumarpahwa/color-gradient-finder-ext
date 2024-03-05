@@ -1,6 +1,6 @@
 # Introduction :
 
-Hi! This is a Color gradient finding extension. This project has been created by Rahul Kumar as a part of learning FrontEnd Development.
+Hi! This is a Color gradient finding extension. This project has been created by [Rahul Kumar](https://www.linkedin.com/in/rahulkumarpahwa/) as a part of learning FrontEnd Development.
 
 # Features :
 
@@ -30,7 +30,7 @@ To get the extension on your system you can follow the process as below:
 6. Toggle the switch on to Active the new Added Extension.
 7. Ta-da! The extension has been successfully installed. You can also pin it if you want.
 
-### Screenshot
+### Screenshot :
 
 ![](./sample/pic1.png)
 
