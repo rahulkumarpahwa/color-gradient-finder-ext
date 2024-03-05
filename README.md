@@ -17,3 +17,7 @@ This Extesnion has following Features :
 # Usage: 
 To get the extension on your system you can follow the process as below:
 1. 
+
+
+
+Click Here to Download the Zip file : [here](https://github.com/rahulkumarpahwa/color-gradient-finder-ext/raw/main/extension.zip)
