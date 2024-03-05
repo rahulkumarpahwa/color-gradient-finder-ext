@@ -1,8 +1,0 @@
-{
-  "name": "Color Gradient Finder",
-  "version": "1.0.0",
-  "description": "It is a color gradient finding extension, to use it you can either choose a color from the palette or can use the color picker to put the starting and ending color for the gradient. after it you can enter the no. of gradients you want in between the colors",
-  "manifest_version": 3,
-  "author": "Rahul Kumar",
-  "action": { "default_popup": "index.html", "default_title": "Color Gradient Finder" }
-}
